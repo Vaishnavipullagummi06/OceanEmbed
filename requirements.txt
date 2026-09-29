@@ -1,0 +1,11 @@
+torch
+numpy
+scipy
+pandas
+matplotlib
+streamlit
+xarray
+netCDF4
+copernicusmarine
+argopy
+zarr
